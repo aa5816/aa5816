@@ -1,4 +1,4 @@
-- 🥷🏼 Hi, I’m Anmol Ahuja
+- 🥷 Hi, I’m Anmol Ahuja
 - 🦫 I’m interested in programming and games
 - 🌱 I’m currently learning C++, deep learning
 
